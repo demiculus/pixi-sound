@@ -1,4 +1,4 @@
-/// <reference types="pixi.js" />
+/// <reference types="pixi.js-legacy" />
 
 declare namespace PIXI {
     export interface LoaderResource {
