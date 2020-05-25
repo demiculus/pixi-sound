@@ -1,4 +1,4 @@
-/// <reference types="pixi.js" />
+/// <reference types="pixi.js-legacy" />
 
 /**
  * Global namespace provided by the PixiJS project.
